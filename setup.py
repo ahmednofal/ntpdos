@@ -6,15 +6,13 @@ with open("README.md", "r") as fh:
 
 tool_name="ntpdos"
 version_num = "0.0.1"
-author_name = "Ahmed Nofal"
-email = "ahmednofal@aucegypt.edu"
+author_name = "DaRkReD"
 setuptools.setup(name=tool_name,
         version=version_num,
         author=author_name,
-        author_email=email,
         description=long_description,
         long_description_content_type="text/markdown",
-        url="https://github.com/ahmednofal/ntpdos",
+        url="https://github.com/vpnguy/ntpdos",
         packages=setuptools.find_packages(),
         classifiers=[
         "Programming Language :: Python :: 2",
