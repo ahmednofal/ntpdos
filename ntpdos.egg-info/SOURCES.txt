@@ -1,0 +1,7 @@
+README.md
+setup.py
+core/ntpdos
+ntpdos.egg-info/PKG-INFO
+ntpdos.egg-info/SOURCES.txt
+ntpdos.egg-info/dependency_links.txt
+ntpdos.egg-info/top_level.txt
